@@ -1,0 +1,38 @@
+{
+  "NVDA": {
+    "company_info": {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "cik": 1045810,
+      "sic": "3674"
+    },
+    "extraction_timestamp": "2025-12-01T18:06:00.335184"
+  },
+  "MCHP": {
+    "company_info": {
+      "ticker": "MCHP",
+      "name": "MICROCHIP TECHNOLOGY INC",
+      "cik": 827054,
+      "sic": "3674"
+    },
+    "extraction_timestamp": "2025-12-01T18:06:01.609866"
+  },
+  "AMD": {
+    "company_info": {
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "cik": 2488,
+      "sic": "3674"
+    },
+    "extraction_timestamp": "2025-12-01T18:06:02.703919"
+  },
+  "LSCC": {
+    "company_info": {
+      "ticker": "LSCC",
+      "name": "LATTICE SEMICONDUCTOR CORP",
+      "cik": 855658,
+      "sic": "3674"
+    },
+    "extraction_timestamp": "2025-12-01T18:06:03.689905"
+  }
+}

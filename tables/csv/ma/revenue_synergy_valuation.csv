@@ -1,0 +1,9 @@
+Scenario,Revenue Synergy ($M),Revenue Increase (%),New Valuation @ Multiple ($B),Value Creation ($B),Success (%),Probability (%)
+Very Pessimistic,15.0,2.9,9.68,-2.53,-20.7,5
+Pessimistic,37.0,7.3,10.08,-2.12,-17.4,7
+Base Case,73.9,14.5,10.76,-1.44,-11.8,13
+Base,123.2,24.2,11.67,-0.53,-4.3,38
+Optimistic,160.2,31.4,12.35,0.15,1.3,25
+Bull Case,184.8,36.3,12.81,0.61,5.0,9
+Very Bull,221.8,43.5,13.49,1.29,10.6,3
+Expected Value,123.1,24.2,11.67,-0.53,-4.4,100

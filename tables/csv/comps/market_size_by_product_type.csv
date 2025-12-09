@@ -1,0 +1,7 @@
+Product Type,Market Size 2024 ($B),Market Size 2025 ($B),CAGR (%),Key Players,Primary Applications,Notes
+GPUs (Graphics Processing Units),$50.0,$65.0,30.0%,"NVIDIA, AMD, Intel","AI/ML training, Gaming, Data centers",Driven by AI boom; NVIDIA dominates data center segment
+CPUs (Central Processing Units),$80.0,$85.0,2.5%,"Intel, AMD, Apple (ARM)","PCs, Servers, Mobile devices",Mature market; ARM gaining share in mobile/servers
+MCUs (Microcontrollers),$25.0,$27.0,8.0%,"Microchip, NXP, STMicroelectronics, Renesas","Automotive, IoT, Industrial, Consumer","High volume, low cost per unit; automotive is largest segment"
+FPGAs (Field-Programmable Gate Arrays),$8.5,$9.5,12.0%,"AMD/Xilinx, Intel, Lattice","Data centers, 5G, Automotive, Industrial",Small but growing market; edge AI driving growth
+ASICs (Application-Specific Integrated Circuits),$35.0,$38.0,8.5%,"Broadcom, Qualcomm, Apple, Google, Amazon","Mobile, Networking, Custom AI chips",Highly fragmented; includes custom chips for big tech
+Memory Chips (DRAM/NAND),$120.0,$140.0,16.7%,"Samsung, SK Hynix, Micron, Kioxia","All computing devices, Data storage",Cyclical market; recovering from 2023 downturn

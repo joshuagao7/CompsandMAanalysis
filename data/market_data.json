@@ -1,0 +1,62 @@
+{
+  "NVDA": {
+    "ticker": "NVDA",
+    "current_price": 179.92,
+    "market_cap": 4387809263616,
+    "enterprise_value": 4251314028544,
+    "cash": 60608000000,
+    "pe_ratio": 44.534653,
+    "pb_ratio": 36.77841,
+    "52w_high": 212.19,
+    "52w_low": 86.62,
+    "timestamp": "2025-12-01T19:52:58.313265"
+  },
+  "MCHP": {
+    "ticker": "MCHP",
+    "current_price": 53.43,
+    "market_cap": 28876075008,
+    "enterprise_value": 34133041152,
+    "cash": 236800000,
+    "pe_ratio": 20.550001,
+    "pb_ratio": 4.312697,
+    "52w_high": 77.2,
+    "52w_low": 34.13,
+    "timestamp": "2025-12-01T19:52:58.540899"
+  },
+  "AMD": {
+    "ticker": "AMD",
+    "current_price": 219.76,
+    "market_cap": 357778423808,
+    "enterprise_value": 350774886400,
+    "cash": 7242999808,
+    "pe_ratio": 115.057594,
+    "pb_ratio": 5.8853774,
+    "52w_high": 267.08,
+    "52w_low": 76.48,
+    "timestamp": "2025-12-01T19:52:58.735456"
+  },
+  "LSCC": {
+    "ticker": "LSCC",
+    "current_price": 68.61,
+    "market_cap": 9392405504,
+    "enterprise_value": 9507944448,
+    "cash": 117910000,
+    "pe_ratio": 343.05,
+    "pb_ratio": 13.281069,
+    "52w_high": 76.61,
+    "52w_low": 34.69,
+    "timestamp": "2025-12-01T19:52:58.922638"
+  },
+  "INTC": {
+    "ticker": "INTC",
+    "current_price": 40.01,
+    "market_cap": 190847680512,
+    "enterprise_value": 219443200000,
+    "cash": 30934999040,
+    "pe_ratio": 666.8333,
+    "pb_ratio": 1.7925627,
+    "52w_high": 42.48,
+    "52w_low": 17.67,
+    "timestamp": "2025-12-01T19:52:59.116123"
+  }
+}

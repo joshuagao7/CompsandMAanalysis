@@ -1,0 +1,7 @@
+Scenario,Annual Synergies ($M),IRR (%),NPV @ 10% ($B),Transaction Value for 10% IRR ($B)
+Pessimistic (50\%),61.6,-20.3,-10.70,1.50
+Base Case (75\%),92.4,-16.4,-10.14,2.05
+Base (100\%),123.2,-13.3,-9.58,2.63
+Optimistic (125\%),154.0,-10.7,-9.02,3.18
+Bull Case (150\%),184.8,-8.5,-8.47,3.73
+Very Bull (200\%),246.4,-4.8,-7.35,4.83

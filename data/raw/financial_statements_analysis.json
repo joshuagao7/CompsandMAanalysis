@@ -1,0 +1,54 @@
+{
+  "NVDA": {
+    "company_info": {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "cik": 1045810,
+      "sic": "3674"
+    },
+    "balance_sheet_available": true,
+    "cash_flow_available": true,
+    "financials_method_available": true,
+    "latest_10k_date": "2025-02-26",
+    "extraction_timestamp": "2025-12-01T18:09:25.506391"
+  },
+  "MCHP": {
+    "company_info": {
+      "ticker": "MCHP",
+      "name": "MICROCHIP TECHNOLOGY INC",
+      "cik": 827054,
+      "sic": "3674"
+    },
+    "balance_sheet_available": true,
+    "cash_flow_available": true,
+    "financials_method_available": true,
+    "latest_10k_date": "2025-05-23",
+    "extraction_timestamp": "2025-12-01T18:09:26.431520"
+  },
+  "AMD": {
+    "company_info": {
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "cik": 2488,
+      "sic": "3674"
+    },
+    "balance_sheet_available": true,
+    "cash_flow_available": true,
+    "financials_method_available": true,
+    "latest_10k_date": "2025-02-05",
+    "extraction_timestamp": "2025-12-01T18:09:27.210181"
+  },
+  "LSCC": {
+    "company_info": {
+      "ticker": "LSCC",
+      "name": "LATTICE SEMICONDUCTOR CORP",
+      "cik": 855658,
+      "sic": "3674"
+    },
+    "balance_sheet_available": true,
+    "cash_flow_available": true,
+    "financials_method_available": true,
+    "latest_10k_date": "2025-02-14",
+    "extraction_timestamp": "2025-12-01T18:09:28.053925"
+  }
+}

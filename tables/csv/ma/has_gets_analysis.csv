@@ -1,0 +1,23 @@
+Metric,Seller Has,Seller Gets,Buyer Has,Buyer Gets
+Share price,$68.61,$89.19,$179.92,$179.92
+PE ratio,343.05x,199.58x,44.53x,60.08x
+Credit Ratios,,,,
+Debt/EBITDA ratio,5.23x,5.23x,0.36x,0.36x
+EBITDA/interest,4.78x,4.78x,68.71x,68.54x
+Debt/capitalization,15.76%,1.08%,28.92%,29.19%
+Debt (net of cash)/capitalization,1.78%,0.12%,-25.39%,-14.52%
+Book Values,,,,
+Debt,$132.97M,$132.97M,$32.27B,$32.41B
+Common stock and retained earnings,$710.93M,N/A,$79.33B,$78.62B
+Market value of shares outstanding,$9.39B,$12.20B,$4.39T,$4.39T
+,,,,
+Assumptions,,,,
+Offer Premium,,30%,,
+Tax Rate,,21%,,
+Interest Rate (on debt),,4%,,
+D&A as % of Revenue - NVIDIA,,,,2%
+D&A as % of Revenue - Lattice,,3%,,
+Annual Synergies,,$123.20M,,
+Deal Structure,,100% Cash,,
+Transaction Value,,$12.20B,,
+Goodwill,,$11.49B,,

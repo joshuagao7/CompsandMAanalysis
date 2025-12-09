@@ -1,0 +1,23 @@
+Valuation Method,Implied Transaction Value ($M),Implied Share Price ($)
+Current Market Cap,"$9,390",$68.61
+""
+EV/Revenue Multiple Approach,,
+  Mean (15.8x),"$8,040",$4026.48
+  Median (15.8x),"$8,049",$4030.73
+""
+EV/EBITDA Multiple Approach,,
+  Mean (57.4x),"$1,459",$730.53
+  Median (54.4x),"$1,383",$692.75
+""
+P/E Multiple Approach,,
+  Mean (97.4x),"$5,951",$2980.33
+  Median (75.4x),"$4,609",$2308.34
+""
+Premium to Current Price Approach,,
+  Mean Premium (28.3%),"$12,046",$88.02
+  Median Premium (24.8%),"$11,719",$85.63
+""
+Most Comparable: AMD/Xilinx Transaction,,
+  EV/Revenue (15.8x),"$8,049",$4030.73
+  EV/EBITDA (54.4x),"$1,383",$692.75
+  Premium (24.8%),"$11,719",$85.63

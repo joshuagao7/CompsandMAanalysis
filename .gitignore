@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+edgar_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Data (keep structure, ignore large files)
+data/*.html
+data/*/*.html
+data/*/*.htm
+*.csv
+!tables/csv/**/*.csv
+!data/master_comps.csv
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Output files (keep in processed/)
+data/processed/IB_*.csv
+data/processed/IB_*.json
+
+# Archive (keep structure but ignore contents)
+archive/*.csv
+archive/*.json

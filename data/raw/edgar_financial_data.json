@@ -1,0 +1,62 @@
+{
+  "NVDA": {
+    "ticker": "NVDA",
+    "name": "NVIDIA CORP",
+    "cik": 1045810,
+    "sic": "3674",
+    "industry": "Semiconductors & Related Devices",
+    "financial_data": {
+      "has_income_statement": true,
+      "has_balance_sheet": true,
+      "has_cash_flow": true,
+      "has_facts": true,
+      "facts_count": 26034
+    },
+    "extraction_timestamp": "2025-12-01T18:02:57.222789"
+  },
+  "MCHP": {
+    "ticker": "MCHP",
+    "name": "MICROCHIP TECHNOLOGY INC",
+    "cik": 827054,
+    "sic": "3674",
+    "industry": "Semiconductors & Related Devices",
+    "financial_data": {
+      "has_income_statement": true,
+      "has_balance_sheet": true,
+      "has_cash_flow": true,
+      "has_facts": true,
+      "facts_count": 27394
+    },
+    "extraction_timestamp": "2025-12-01T18:02:58.398289"
+  },
+  "AMD": {
+    "ticker": "AMD",
+    "name": "ADVANCED MICRO DEVICES INC",
+    "cik": 2488,
+    "sic": "3674",
+    "industry": "Semiconductors & Related Devices",
+    "financial_data": {
+      "has_income_statement": true,
+      "has_balance_sheet": true,
+      "has_cash_flow": true,
+      "has_facts": true,
+      "facts_count": 22562
+    },
+    "extraction_timestamp": "2025-12-01T18:02:59.265017"
+  },
+  "LSCC": {
+    "ticker": "LSCC",
+    "name": "LATTICE SEMICONDUCTOR CORP",
+    "cik": 855658,
+    "sic": "3674",
+    "industry": "Semiconductors & Related Devices",
+    "financial_data": {
+      "has_income_statement": true,
+      "has_balance_sheet": true,
+      "has_cash_flow": true,
+      "has_facts": true,
+      "facts_count": 19089
+    },
+    "extraction_timestamp": "2025-12-01T18:03:00.367452"
+  }
+}

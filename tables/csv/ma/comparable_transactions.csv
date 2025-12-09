@@ -1,0 +1,7 @@
+Acquirer,Target,Date,Transaction_Value_M,Target_Revenue_M,Target_EBITDA_M,Target_Net_Income_M,Premium_Pct,EV_Revenue_Multiple,EV_EBITDA_Multiple,P_E_Multiple,Strategic_Rationale
+AMD,Xilinx,2022,49000,3100,900,650,24.8,15.8,54.4,75.4,FPGA capabilities for data center/AI
+Analog Devices,Maxim Integrated,2021,20900,2300,750,570,22.0,9.1,27.9,36.7,Analog/mixed-signal semiconductor portfolio
+Marvell Technology,Inphi,2020,10000,500,120,45,57.0,20.0,83.3,222.2,Data center interconnect solutions
+Intel,Mobileye,2017,15300,358,100,75,34.0,42.7,153.0,204.0,Autonomous vehicle technology
+Broadcom,CA Technologies,2018,18900,4200,1100,850,20.0,4.5,17.2,22.2,Enterprise software diversification
+NXP Semiconductors,Freescale Semiconductor,2015,11800,4600,1400,500,11.9,2.6,8.4,23.6,Microcontroller and automotive chips

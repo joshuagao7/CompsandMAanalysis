@@ -1,0 +1,102 @@
+{
+  "NVDA": {
+    "revenue_tags": [
+      "get_revenue",
+      "get_revenue_detailed"
+    ],
+    "profit_tags": [
+      "get_gross_profit",
+      "get_net_income",
+      "get_net_income_detailed",
+      "get_operating_income",
+      "income_statement"
+    ],
+    "asset_tags": [
+      "cash_flow",
+      "get_total_assets"
+    ],
+    "equity_tags": [
+      "get_shareholders_equity"
+    ],
+    "share_tags": [
+      "shares_outstanding",
+      "shares_outstanding_fact"
+    ],
+    "total_tags": 33
+  },
+  "MCHP": {
+    "revenue_tags": [
+      "get_revenue",
+      "get_revenue_detailed"
+    ],
+    "profit_tags": [
+      "get_gross_profit",
+      "get_net_income",
+      "get_net_income_detailed",
+      "get_operating_income",
+      "income_statement"
+    ],
+    "asset_tags": [
+      "cash_flow",
+      "get_total_assets"
+    ],
+    "equity_tags": [
+      "get_shareholders_equity"
+    ],
+    "share_tags": [
+      "shares_outstanding",
+      "shares_outstanding_fact"
+    ],
+    "total_tags": 33
+  },
+  "AMD": {
+    "revenue_tags": [
+      "get_revenue",
+      "get_revenue_detailed"
+    ],
+    "profit_tags": [
+      "get_gross_profit",
+      "get_net_income",
+      "get_net_income_detailed",
+      "get_operating_income",
+      "income_statement"
+    ],
+    "asset_tags": [
+      "cash_flow",
+      "get_total_assets"
+    ],
+    "equity_tags": [
+      "get_shareholders_equity"
+    ],
+    "share_tags": [
+      "shares_outstanding",
+      "shares_outstanding_fact"
+    ],
+    "total_tags": 33
+  },
+  "LSCC": {
+    "revenue_tags": [
+      "get_revenue",
+      "get_revenue_detailed"
+    ],
+    "profit_tags": [
+      "get_gross_profit",
+      "get_net_income",
+      "get_net_income_detailed",
+      "get_operating_income",
+      "income_statement"
+    ],
+    "asset_tags": [
+      "cash_flow",
+      "get_total_assets"
+    ],
+    "equity_tags": [
+      "get_shareholders_equity"
+    ],
+    "share_tags": [
+      "shares_outstanding",
+      "shares_outstanding_fact"
+    ],
+    "total_tags": 33
+  }
+}

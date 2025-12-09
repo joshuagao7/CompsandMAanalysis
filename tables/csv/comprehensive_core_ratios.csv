@@ -1,0 +1,6 @@
+Ticker,Company,Revenue ($M),Gross Margin (%),Operating Margin (%),Net Margin (%),ROE (%),ROA (%),Asset Turnover,Current Ratio
+NVDA,NVIDIA CORP,"$130,497",78.4%,66.0%,55.8%,91.9%,65.3%,1.17x,4.44x
+INTC,INTEL CORP,"$53,101",25.3%,-5.3%,-35.3%,-18.9%,-9.5%,0.27x,1.33x
+AMD,ADVANCED MICRO DEVIC,"$25,785",44.9%,7.5%,6.4%,2.9%,2.4%,0.37x,2.62x
+MCHP,MICROCHIP TECHNOLOGY,"$4,402",27.6%,2.7%,-0.01%,-0.01%,-0.00%,0.29x,2.59x
+LSCC,LATTICE SEMICONDUCTO,$509,50.5%,2.0%,12.0%,8.6%,7.2%,0.60x,3.66x

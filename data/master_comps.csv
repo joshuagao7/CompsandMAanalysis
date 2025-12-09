@@ -1,0 +1,6 @@
+Ticker,Company,Revenue ($M),Net Income ($M),Assets ($M),Equity ($M),OCF ($M),FCF ($M),Net Margin %,ROE %,ROA %,Asset Turn.,Current Ratio,FCF Margin %
+NVDA,NVIDIA CORP,"$130,497","$72,880","$111,601","$79,327",N/A,N/A,55.8%,91.9%,65.3%,1.17x,4.44x,N/A
+MCHP,MICROCHIP TECHNOLOGY INC,"$4,402",$-0,"$15,375","$7,078",$40,$-86,-0.0%,-0.0%,-0.0%,0.29x,2.59x,-2.0%
+AMD,ADVANCED MICRO DEVICES IN,"$25,785","$1,641","$69,226","$57,568",N/A,N/A,6.4%,2.9%,2.4%,0.37x,2.62x,N/A
+LSCC,LATTICE SEMICONDUCTOR COR,$509,$61,$844,$711,N/A,N/A,12.0%,8.6%,7.2%,0.60x,3.66x,N/A
+INTC,INTEL CORP,"$53,101","$-18,756","$196,485","$99,270",N/A,N/A,-35.3%,-18.9%,-9.5%,0.27x,1.33x,N/A
